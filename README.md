@@ -32,5 +32,6 @@ Once you are done with this and would like the intsructor to review it, share th
 ## Online Resources:
 1. [Installing git on Windows](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. [Git tutorial by Colt Steele](https://www.youtube.com/watch?v=USjZcfj8yxE&t=339s&ab_channel=TraversyMediaTraversyMediaVerified)
+3. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 If you have any questions regarding the bootcamp, feel free to email [datasciencebootcamp@nyu.edu](mailto:datasciencebootcamp@nyu.edu)
