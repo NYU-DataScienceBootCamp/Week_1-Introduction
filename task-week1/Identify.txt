@@ -1,0 +1,5 @@
+Please enter your details:
+
+Name: 
+NETID:
+Favorite book and author: 
