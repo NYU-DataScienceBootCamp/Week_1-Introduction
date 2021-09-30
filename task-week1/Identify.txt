@@ -1,5 +1,5 @@
 Please enter your details:
 
-Name: 
-NETID:
-Favorite book and author: 
+Name: Xinhang Shen
+NETID: xs791
+Favorite book and author: Martin Eden by Jack London 
